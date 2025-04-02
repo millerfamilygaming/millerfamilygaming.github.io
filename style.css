@@ -34,7 +34,7 @@ a {
 
 /*Top menu*/
 ul.menu {
-  background-color: lightpink;
+  background-color: black;
   list-style-type: none;
   text-align: center;
   overflow: hidden;
@@ -52,7 +52,7 @@ li.menuli a {
   color: white;
   font-family: Georgia;
   font-size: 1.8vw;
-  width: 16.66%;
+  width: 25%;
   padding-top: 5px;
   padding-bottom: 5px;
 }
