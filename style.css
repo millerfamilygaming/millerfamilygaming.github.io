@@ -53,8 +53,8 @@ li.menuli a {
   font-family: Tahoma;
   font-size: 1.8vw;
   width: 25%;
-  padding-top: 5px;
-  padding-bottom: 5px;
+  padding-top: 7px;
+  padding-bottom: 7px;
 }
 li.menuli a.active {
   background-color: gray;
